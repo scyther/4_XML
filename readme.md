@@ -1,4 +1,4 @@
-# Web Technology Lab - Practical Guide
+# Web Technology Lab - Practical Guide - XML, XSD, XSLT
 
 ## Objectives
 1. Add XML Documents in HTML.
